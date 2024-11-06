@@ -1,0 +1,1 @@
+This example demonstrates the use of virtual inheritance to mitigate problems caused by the multiple inheritance. This example demonstrates that while the problem has been solved at one level, it still leaves some goals that are unmet, in this case there is no way to enumarate e.g. all Drawables only.

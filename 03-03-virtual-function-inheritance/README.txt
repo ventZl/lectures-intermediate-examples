@@ -1,0 +1,1 @@
+This example shows that the virtual table is initialized by the constructor, so if a virtual function is called from within constructor its identity changes as the object is constructed. While virtual table is used to identify the type of object in C++ RTTI, so does change the apparent type of the object.

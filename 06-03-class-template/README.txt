@@ -1,0 +1,1 @@
+In this example a trivial class template is demonstrated to write test against. Here we see that tests can be written the same way to test template arguments as they can be used to test function / method arguments.

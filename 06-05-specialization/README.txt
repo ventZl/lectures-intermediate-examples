@@ -1,0 +1,1 @@
+This example demonstrates that templatized code allows to write special versions of functions handling cases which do not fit the templatized version. This way the use of template works even for types where the generic version itself would not work.

@@ -1,0 +1,1 @@
+This example shows that free-standing functions are not the only kind of functions that can be templatized. Here a class method is templatized to implement serialization and deserialization functionality.

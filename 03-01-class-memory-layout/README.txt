@@ -1,0 +1,1 @@
+This example demonstrates that there is no difference between class and structure as long as there are no virtual methods involved. Both class and structure can contain virtual methods. This is demonstrated on observing that allocation size of class and structure is the same if it has the same layout and changes once methods are converted from non-virtual to virtual.

@@ -1,0 +1,1 @@
+This example provides an example of "interface" that carries unnecessary methods and force users to use them in order for the interface being usable. This also prevents reasonable derivation of this class.

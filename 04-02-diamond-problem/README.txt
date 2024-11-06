@@ -1,0 +1,1 @@
+This example demonstrates the emergence of diamond problem on a simple case where instance registry is added. Expected result after creation of one instance is to see that registry contains one instance while in reality the instance is recorded twice.

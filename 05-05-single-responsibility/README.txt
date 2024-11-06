@@ -1,0 +1,1 @@
+This example demonstrates as it becomes increasingly difficuilt to implement new functionality if multiple concerns are mixed into one interface. If tests are implemented one by one, sooner or later it happens that some functionality already implemented has to be changed / duplicated which affects code already using the old implementation.
